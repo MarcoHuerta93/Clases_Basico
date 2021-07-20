@@ -1,0 +1,6 @@
+/Users/marcohuerta/Projects/Clases_Basico/Clases_Basico/bin/Debug/Clases_Basico.exe
+/Users/marcohuerta/Projects/Clases_Basico/Clases_Basico/bin/Debug/Clases_Basico.pdb
+/Users/marcohuerta/Projects/Clases_Basico/Clases_Basico/obj/Debug/Clases_Basico.csproj.AssemblyReference.cache
+/Users/marcohuerta/Projects/Clases_Basico/Clases_Basico/obj/Debug/Clases_Basico.csproj.CoreCompileInputs.cache
+/Users/marcohuerta/Projects/Clases_Basico/Clases_Basico/obj/Debug/Clases_Basico.exe
+/Users/marcohuerta/Projects/Clases_Basico/Clases_Basico/obj/Debug/Clases_Basico.pdb
