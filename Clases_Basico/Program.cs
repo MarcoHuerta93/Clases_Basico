@@ -9,7 +9,7 @@ namespace Clases_Basico
             //crea un objeto desde mi clase
             //una instancia desde la clase Humano    
             Humano Marco = new Humano("Marco","Huerta", "cafes", 27);
-            Humano Antonio = new Humano("Antonio","Huerta", "azules", 28);
+            Humano Antonio = new Humano("Antonio","Huerta", "azules", 1);
 
             //Acceder desde una variable pública
            /* Marco.primerNombre = "Marco";

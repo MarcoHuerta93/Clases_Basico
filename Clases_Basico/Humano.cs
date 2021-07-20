@@ -21,11 +21,20 @@ namespace Clases_Basico
             this.edad = edad;
 
         }
-        
+
+
         //Miembro método
         public void presentarme()
         {
-            Console.WriteLine("Hola, soy {0} {1} {2} {3}" , primerNombre, apellido, colorOjos,edad);
+            if (edad == 1)
+            {
+                Console.WriteLine("Hola, soy {0} {1} y tengo {2} año de edad. Mi color de ojos es {3}", primerNombre, apellido, edad , colorOjos);
+            }
+            else
+            {
+                Console.WriteLine("Hola, soy {0} {1} y tengo {2} años de edad. Mi color de ojos es {3}", primerNombre, apellido, edad, colorOjos);
+            }
+            
         }
     }
 }
