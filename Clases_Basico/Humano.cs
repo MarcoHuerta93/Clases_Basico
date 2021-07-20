@@ -10,7 +10,7 @@ namespace Clases_Basico
         private string colorOjos;
         private int edad;
 
-        //Miembro constructor
+        //Miembro constructor parametrizado es decir que se construye a base de parámetros
         public Humano(string primerNombre, string apellido, string colorOjos, int edad)
         {
 
